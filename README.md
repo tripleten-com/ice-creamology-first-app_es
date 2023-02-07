@@ -1,18 +1,18 @@
 # Ice Creamology
-### Description
-With this project, we'll make it possible to order ice cream in different cities.
-### Technologies
+### Descripción
+Con este proyecto conseguiremos que sea posible pedir helados en diferentes ciudades.
+### Tecnologías
 Python 3.7
 Django 2.2.19
-### Run the project in dev mode
-- Create a virtual environment and activate it
-- Install the dependencies from the requirements.txt file
+### Ejecuta el proyecto en modo dev
+- Crea un entorno virtual y actívalo
+- Instala las dependencias del archivo requirements.txt
 ```
 pip install -r requirements.txt
 ``` 
-- In the folder with the manage.py file, run the command:
+- En la carpeta con el archivo manage.py, ejecuta el comando:
 ```
 python3 manage.py runserver
 ```
-### Authors
-Me, Myself and I
+### Autores
+Yo y nadie más que yo
